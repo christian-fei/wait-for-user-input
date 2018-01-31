@@ -1,6 +1,6 @@
 {
   "name": "wait-for-user-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "minimal way to wait for user input on the terminal.",
   "main": "index.js",
   "scripts": {
